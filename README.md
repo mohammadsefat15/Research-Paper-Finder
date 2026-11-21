@@ -17,7 +17,7 @@ A research-support tool that finds relevant arXiv AI/ML papers from a natural-la
 | SciTLDR (SciTLDR-A test set, 618 papers) | https://github.com/allenai/SciTLDR and https://huggingface.co/datasets/allenai/scitldr | Summarization evaluation |
 | Semantic Scholar Academic Graph API | https://api.semanticscholar.org/api-docs/ | Planned source of current paper records (not used in the final system) |
 
-The full processed files are large, so they are not stored in this repository. `data/papers_sample_1000.csv` is a small sample of the processed paper table. Full processed table: https://drive.google.com/file/d/1-HJWNME4-sV6g6aRI6N_aXgK6djmOs5T/view?usp=drive_link
+The full processed files are large, so they are not stored in this repository. `data/papers_sample_1000.csv` is a small sample of the processed paper table. Full processed table: https://drive.google.com/file/d/1-HJWNME4-sV6g6aRI6N_aXgK6djmOs5T/view?usp=sharing
 
 ## Results
 
